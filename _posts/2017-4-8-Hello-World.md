@@ -17,13 +17,13 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 
 ## Bugs discovered / what I got stuck on:
 
-- ...thing 1
-- ...thing 2
+- ...Variables
+- ...Functions
 
 ## Useful links to save for later:
 
-- ...thing 1
-- ...thing 2
+- ...google MD Cheat Sheet
+- ...repl.it
 
 ## My next goals:
 
