@@ -1,8 +1,0 @@
-Blog Post Steps
-cd tab
- cd _posts/
- open file and save
- git status
- git add
- git commit
- git push use to get to github
